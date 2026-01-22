@@ -1,6 +1,9 @@
 ## Citation
 If you use this work, please cite the Zenodo record:
 DOI: 10.5281/zenodo.18342502
+
+---
+
 ##K-Framework##
 **K-Framework** is an uncertainty-aware, research-grade framework for satellite
 state estimation, propagation, and afterlife analysis using public orbital data.
